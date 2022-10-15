@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima&family=Raleway:wght@300&display=swap');
+
+body,h1, h4, ul, li{
+  margin: 0;
+  padding: 0;
+}
+
+
+body{
+background-image:  url(../img/firma.png);
+  background-color: #F0CBFE;
+}
+h1{
+  font-family: 'Arima', cursive;
+  font-size: 50px;
+}
+h5,h4,p,a, ul, li{
+font-family: 'Raleway', sans-serif;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+.contenedor{
+  width: 900px;
+  background-color: white;
+  margin: 0 auto;
+
+}
+.ariana2{
+text-align: center;
+}
+.ariana3{
+text-align: center;
+
+}
+.ariana4{
+text-align: center;
+
+}
+.cabeza{
+  color: white;
+  background-color: #C7AED2;
+  padding: 10px;
+}
+.cuerpo{
+  padding: 50px;
+}
+
+.epigrafe{
+color: grey;
+padding: 10px;
+
+}
+
+.epigrafe2{
+  color: grey;
+text-align: center;
+padding: 10px;
+}
+
+
+.pie{
+  color: white;
+  background-color: #C7AED2;
+  padding: 50px;
+  text-align: center;
+}
+
+.img-portada{
+  background-image: url(../img/ariana.jpg);
+  height: 300px;
+  padding: 120px 50px 10px 50px;
+
+}
+
+
+.vinculo{
+  color: #4F0070;
+}
+
+
+.marco-video{
+  background: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.menu{
+  padding: 10px;
+background-color: #ECE0F1;
+
+}
